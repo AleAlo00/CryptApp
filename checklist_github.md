@@ -17,9 +17,9 @@
 
 
 ## 3. Gestione chiavi
-- [ ] Chiave privata RSA NON inclusa nel repository
-- [ ] Chiave pubblica RSA esportabile / condivisibile
-- [ ] Servizio RSA pronto (`rsa_service.dart`)
+- [x] Chiave privata RSA NON inclusa nel repository
+- [x] Chiave pubblica RSA esportabile / condivisibile
+- [x] Servizio RSA pronto (`rsa_service.dart`)
 
 ## 4. File e Storage
 - [ ] Cartella `File/` presente per salvare file locali
