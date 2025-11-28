@@ -1,19 +1,19 @@
 # ✅ Checklist Flutter per GitHub
 
 ## 1. Struttura del progetto
-- [ ] Cartella principale `lib/` presente
-- [ ] Cartelle:
+- [x] Cartella principale `lib/` presente
+- [x] Cartelle:
   - `pages/` (home_page, my_keys_page, friends_keys_page, encrypt_page, decrypt_page)
   - `services/` (rsa_service, file_service, storage_service)
   - `models/` (key_pair, friend_key)
   - `widgets/` (big_button, key_card, file_picker_button)
-- [ ] File `main.dart` presente
+- [x] File `main.dart` presente
 
 ## 2. Gestione Git
-- [ ] Git inizializzato (`git init`)
-- [ ] Remote origin impostato verso il repo GitHub corretto
-- [ ] Primo commit fatto (`git add .` + `git commit -m "Initial commit"`)
-- [ ] `.gitignore` creato e corretto (Flutter, Android, iOS, build)
+- [x] Git inizializzato (`git init`)
+- [x] Remote origin impostato verso il repo GitHub corretto
+- [x] Primo commit fatto (`git add .` + `git commit -m "Initial commit"`)
+- [x] `.gitignore` creato e corretto (Flutter, Android, iOS, build)
 
 
 ## 3. Gestione chiavi
